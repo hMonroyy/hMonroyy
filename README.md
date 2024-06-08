@@ -1,6 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://e0.pxfuel.com/wallpapers/416/806/desktop-wallpaper-dark-aesthetic-cool-dark-aesthetic-thumbnail.jpg');]{x0000}$}
-```
 ### Hi there, I'm [Héctor Monroy](https://github.com/hMonroyy) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 As a 19-year-old student studying Web Application Development at [IES Thos i Codina](https://www.iesthosicodina.cat/oferta/estudis/fp/daw/), I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated software developer, I would love to connect and discuss potential opportunities!
